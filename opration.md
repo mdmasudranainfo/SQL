@@ -18,4 +18,8 @@
 
 
 -- ##get all user B
-select * from alluser;
+-- select * from alluser;
+
+
+
+-- ## 30-9: Insertion
